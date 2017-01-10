@@ -22,4 +22,3 @@ class CheckingsAccount{
         console.log(`Checking Account Balance: ${this.myBalance}`); 
     }
 }
-
