@@ -26,6 +26,6 @@ class SavingsAccount{
 
     public checkBalance() {
         console.log(`Owner: ${this.myOwner}`);
-        console.log(`Checking Account Balance: ${this.myBalance}`); 
+        console.log(`Savings Account Balance: ${this.myBalance}`); 
     }
 }
